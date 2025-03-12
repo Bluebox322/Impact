@@ -73,13 +73,6 @@
             "link": ""
           }
         },
-        "logo_bgjdaN": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
         "logo_HEWpNJ": {
           "type": "logo",
           "settings": {
@@ -92,7 +85,6 @@
         "logo_J7qp3Q",
         "logo_p8Hbxx",
         "logo_qGDdPR",
-        "logo_bgjdaN",
         "logo_HEWpNJ"
       ],
       "settings": {
@@ -255,7 +247,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "epilsmooth",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
