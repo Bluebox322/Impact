@@ -224,8 +224,8 @@
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
@@ -256,7 +256,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -304,7 +304,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "start",
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
