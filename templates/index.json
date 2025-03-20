@@ -55,6 +55,7 @@
         "logo_J7qp3Q": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/gempages_555008507703722818-21b0ccb5-3d2c-478a-8ac3-49e715c77530.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -62,6 +63,7 @@
         "logo_p8Hbxx": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -69,6 +71,7 @@
         "logo_qGDdPR": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan.png",
             "logo_width": 120,
             "link": ""
           }
@@ -76,6 +79,7 @@
         "logo_HEWpNJ": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Elle_logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -123,6 +127,64 @@
         "after_text_color": "#ffffff",
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
+      }
+    },
+    "multi_column_dnJL6m": {
+      "type": "multi-column",
+      "blocks": {
+        "item_K6VpdX": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FXH8dY": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WDBeNB": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_K6VpdX",
+        "item_FXH8dY",
+        "item_WDBeNB"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Featured content",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "press": {
@@ -256,7 +318,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "#f0f0f0",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -304,7 +366,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "start",
-        "background": "#f0f0f0",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -340,6 +402,7 @@
     "image-with-text-overlay",
     "logo_list_GmVYYV",
     "before-after-image",
+    "multi_column_dnJL6m",
     "press",
     "featured-product",
     "faq",
